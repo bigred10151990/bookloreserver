@@ -19,7 +19,7 @@
 [license-shield]: https://img.shields.io/github/license/bigred10151990/bookloreserver
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [releases-shield]: https://img.shields.io/github/release/bigred10151990/ha-addons.svg
-[releases]: https://github.com/bigred10151990/bookloreserver/releases
+[releases]: https://img.shields.io/github/v/release/bigred10151990/bookloreserver
 
 This add-on runs [BookLore](https://github.com/booklore-app/booklore) inside Home Assistant OS.
 
